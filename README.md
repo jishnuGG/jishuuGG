@@ -1,92 +1,78 @@
-<h1 align="center">Hi 👋, I'm Jishnu</h1>
-<h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | Problem Solver</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Gokul A.</span></h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity!;Innovating+One+Project+at+a+Time!;Exploring+the+World+of+Tech!;Welcome+to+My+GitHub!" alt="Typing SVG" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gokul1111-cmd&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 *Engineering Student* specializing in Computer Science and Cybersecurity.  
-- 🔒 *Cybersecurity Fanatic* exploring vulnerabilities, penetration testing, and secure software design.  
-- 🌟 *Full-Stack Developer* building seamless user experiences and robust backend systems.  
-- 🎯 *Lifelong Learner* continuously expanding my knowledge in AI, ML, and blockchain.  
+### 👨‍💻 About Me
 
----
+- 🔭 I'm currently working on **ShopVerse**, an e-commerce website.
+- 🌱 I'm currently learning **Full-stack Java** and **DevOps**.
+- 👯 I'm looking to collaborate on **any project** where I can contribute and learn.
+- 📫 How to reach me: [gokulanbalagan1112@gmail.com](mailto:gokulanbalagan1112@gmail.com)
+- ⚡ **Fun fact:** I'm an INTROVERTED extrovert!
 
-### 💻 Tech Stack
-#### *Languages*
-- Python | Java | JavaScript | C  
+<br>
 
-#### *Frameworks*
-- Flask | Spring Boot | React | Node.js  
-
-#### *Databases*
-- MySQL | MongoDB  
-
-#### *Tools & Platforms*
-- Git | Docker | Jupyter Notebook | IntelliJ | Visual Studio Code  
-
----
-
-### 🌟 Key Highlights
-- 🔍 *Cybersecurity Projects*:  
-  - Created a *Malicious URL Detector* to enhance web security.  
-  - Developed tools to identify vulnerabilities using advanced fuzzing techniques.  
-
-- 🌐 *Web Development*:  
-  - Designed interactive web apps integrating modern frameworks like React and Flask.  
-  - Crafted dynamic content systems using Node.js and MongoDB.  
-
-- 🤖 *AI & Automation*:  
-  - Built an *Emotion-Based Music Recommendation System* that adapts to user sentiment.  
-  - Explored *Natural Language Processing (NLP)* to enhance chatbot functionalities.  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul1111-cmd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul1111-cmd&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🛠 3D Contribution Graph
-<p align="center">
-  <img src="https://gokul1111-cmd.github.io/3d-model/" alt="3D Contribution Graph" /> 
-</p>
-
----
-
-### 🏆 Achievements
-- 🥇 *Hackathon Finalist*: Smart India Hackathon 2023  
-- 🏅 *400+ Leetcode DSA Problems Solved*  
-- 🏆 *3rd Prize*: Technical Quiz Competition  
-
----
-
-### 🌐 Connect with Me
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/gokul-anbalagan-431510244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Gokul1111-cmd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://medium.com/@gokulanbalagan1112" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/gokulanbalagan" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/gokulanbalagan11" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://leetcode.com/gokul_a-" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-F8982D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
 
 ---
 
-### 🌱 Fun Facts
-- ⚡ I’m fascinated by *blockchain and decentralized systems*.  
-- 🎵 Music keeps me energized while coding.  
-- 💡 "Think outside the box, but don’t forget to learn what’s inside the box first!"  
+### 💻 My Tools & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,css,docker,firebase,flask,git,html,java,js,jenkins,kubernetes,mongodb,mysql,postman,react,spring,tailwind" alt="Skills Icon" />
+  </a>
+</p>
 
 ---
 
-### 📈 Profile Views
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gokul1111-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul1111-cmd&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul1111-cmd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul1111-cmd&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🕹️ My GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gokul1111-cmd/gokul1111-cmd/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 📊 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gokul1111-cmd&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
