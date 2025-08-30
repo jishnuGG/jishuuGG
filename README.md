@@ -1,78 +1,102 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Gokul A.</span></h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokul1111-cmd&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Jishnu G S</span></h1>
+<h3 align="center">🚀 Cybersecurity Enthusiast | Full-Stack Developer | Problem Solver</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **ShopVerse**, an e-commerce website.
-- 🌱 I'm currently learning **Full-stack Java** and **DevOps**.
-- 👯 I'm looking to collaborate on **any project** where I can contribute and learn.
-- 📫 How to reach me: [gokulanbalagan1112@gmail.com](mailto:gokulanbalagan1112@gmail.com)
-- ⚡ **Fun fact:** I'm an INTROVERTED extrovert!
+- 🔭 Currently working on **ShopVerse**, a full-stack e-commerce platform  
+- 🌱 Exploring **Full-Stack Java, Cybersecurity, and DevOps**  
+- 👯 Open to collaborate on **innovative cybersecurity & development projects**  
+- 📫 Reach me at: **[jishnustudies10@gmail.com](mailto:jishnustudies10@gmail.com)**  
+- ⚡ **Fun fact:** Very introverted, but passionate about teamwork and tech!  
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gokul-anbalagan-431510244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jishnu-g-s-6a6b75261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@gokulanbalagan1112" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  <a href="https://github.com/jishnuGG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/gokulanbalagan" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/gokulanbalagan11" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://leetcode.com/gokul_a-" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-F8982D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  <a href="https://leetcode.com/u/JishnuGS/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F8982D.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💻 My Tools & Technologies
+### 💻 Skills & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,css,docker,firebase,flask,git,html,java,js,jenkins,kubernetes,mongodb,mysql,postman,react,spring,tailwind" alt="Skills Icon" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,react,spring,mongodb,mysql,html,css,docker,jenkins,git,linux,postman,aws,azure" alt="Skills" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
+
+- **ShopVerse | Full-Stack E-commerce Platform (2025 – Present)**  
+  🔹 Built core **Spring Boot microservices** (product, seller, order) with Spring Cloud Gateway  
+  🔹 Designed **Seller Management module** (React dashboard + backend CRUD APIs)  
+  🔹 *Stack:* Spring Boot, React.js, Java, MongoDB  
+
+- **Ransomware Detection System (2024)**  
+  🔹 Developed a **web platform** to detect malicious files & suggest mitigation strategies  
+  🔹 Automated large-scale document scanning for enterprises  
+  🔹 *Stack:* Python, HTML, CSS  
+
+- **Inventory Management System (2024)**  
+  🔹 Created a **web-based admin panel** for inventory operations (insert, update, delete)  
+  🔹 Integrated front-end with Spring Boot + MySQL backend  
+  🔹 *Stack:* Spring Boot, Java, MySQL, HTML, CSS, JS  
+
+---
+
+### 🎓 Certifications
+
+- Postman API Fundamentals – **Postman** (2024)  
+- Introduction to MongoDB – **MongoDB University** (2024)  
+- IPv6 Fundamentals – **APNIC** (2024)  
+- JavaScript Programming – **IIT Spoken Tutorial** (2024)  
+
+---
+
+### 🏆 Achievements & Leadership
+
+- 📝 Research presentation on **File Integrity** at National Conference on Cybersecurity (2024)  
+- 📜 Presented **IPv6 Fundamentals** at academic forum (2024)  
+- 🛠️ Development Team Coordinator – **CRYPTX Cyber Security Club**  
+- 🎓 Attended **5-day IPv6 Deployment Workshop @ NIT Surathkal** (2023)  
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul1111-cmd&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul1111-cmd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jishnuGG&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnuGG&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul1111-cmd&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jishnuGG&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
 
-### 🕹️ My GitHub Snake
+### 🕹️ GitHub Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokul1111-cmd/gokul1111-cmd/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/jishnuGG/jishnuGG/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </p>
 
 ---
 
-### 📊 Profile Views
+### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokul1111-cmd&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jishnuGG&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
